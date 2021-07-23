@@ -6,4 +6,4 @@ For more information please visit: https://uomultima.com
 To report an issue visit: https://uomultima.com/support
 
 # Download Multima for Free
-Download link: https://uomultima.com/play
+Download link: https://uomultima.com/play.php
