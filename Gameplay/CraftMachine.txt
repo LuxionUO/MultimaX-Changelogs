@@ -1,5 +1,5 @@
 Changelogs regarding Craft Machine
 
-# 24 July 2021 @ 02:35
+# 24 July 2021 @ 02:35 
 • Alchemy costs have been reduced.
 • Minor bugfixes about resources required.
