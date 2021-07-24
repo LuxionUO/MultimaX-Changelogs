@@ -1,1 +1,4 @@
+# Changelogs 24 July 2021
 
++ @ 22:05 (TimeZone London, United Kingdom) - Luxion
+- From now wolves need Horses in order to run as before. The fast run while walking has been disabled due to performance needs.
